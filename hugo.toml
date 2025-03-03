@@ -1,0 +1,5 @@
+# Hugo Configuration -> https://gohugo.io/getting-started/configuration/ .
+
+baseURL = 'https://www.manikandaraj.com/'
+languageCode = 'en-us'
+title = 'My Matrix - Manikandaraj Srinivasan!'
